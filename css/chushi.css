@@ -10,13 +10,33 @@ body{
 	margin:0;
 	padding:0;
 	height:60px;
+	width:100%;
 	background:#1493a6;
-	display:block;
+	display:inline-block;
 	margin:0;
+	border:0;
 }
  .mandiv ul , .mandiv li{
 	margin:10px;
+	display:inline-block;
 	list-style:none;
 	padding-right:40px;
 	float:left;
+}
+.youcezhu{
+	text-align:content;
+	padding:0;
+	margin:0;
+	margin-left:10%;
+	width:20%;
+	float:left;
+	background:#ffffff;
+	display:inline-block;
+}
+.youneirong{
+	margin:0;
+	width:40%;
+	background:#ffffff;
+	float:left;
+	display:inline-block;
 }
