@@ -1,9 +1,22 @@
-.mandiv{
-	display:block;
+body{
+	padding:0;
+	margin:0;
+	background:#f3f3f3;
 }
- .mandiv li{
+#logo{
+	margin:0 auto;
+}
+.mandiv{
+	margin:0;
+	padding:0;
+	height:60px;
+	background:#1493a6;
+	display:block;
+	margin:0;
+}
+ .mandiv ul , .mandiv li{
+	margin:10px;
 	list-style:none;
-	padding-right:0px;
-	margin:0px;
+	padding-right:40px;
 	float:left;
 }
