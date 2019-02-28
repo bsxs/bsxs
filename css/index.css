@@ -1,0 +1,29 @@
+.aside{
+	min-width:600px;
+	margin:0 auto;
+	text-align:center;
+	width:60%;
+}
+.asideshang{
+	height:40%;
+}
+.asideshang h1{
+	margin:0;
+	padding:0;
+}
+#logo{
+	padding:0;
+	margin:50px;
+	height:300px;
+	width:300px;
+}
+.asidexia{
+	margin-top:50px;
+	height:40%;
+	border-bottom:1px solid #eaecef;
+	border-top:1px solid #eaecef;
+}
+.footer{
+	text-align:center;
+	margin:0;
+}
